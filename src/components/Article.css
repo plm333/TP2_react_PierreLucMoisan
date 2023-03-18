@@ -1,0 +1,30 @@
+.article__wrapper {
+    margin: 73px;
+}
+
+.article {
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 16px;
+    width: 50%;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+
+.image__wrapper{
+    height: 70%;
+    margin: auto;
+    width: 70%;
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper__articles {
+    display: inline-block;
+}

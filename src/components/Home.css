@@ -1,0 +1,55 @@
+.banner {
+    align-items: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/sofa.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding: 300px 100px 100px;
+}
+
+.banner .content {
+    margin-top: -140px;
+    margin-left: 350px;
+}
+
+.banner .content h2 {
+    color: rgb(232, 232, 232);
+    font-size: 4em;
+    font-weight: 100;
+}
+
+.banner .content span {
+    color: rgb(232, 232, 232);
+    font-size: 6em;
+    font-weight: 600;
+}
+
+.banner .content p {
+    color: rgb(232, 232, 232);
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.banner .content a {
+    background-color: rgb(247, 0, 255);
+    border: none;
+    border-radius: 25px;
+    color: rgb(232, 232, 232);
+    display: inline-block;
+    font-size: 15px;
+    margin: 30px 0;
+    margin-top: 20px;
+    padding: 8px 30px;
+    text-decoration: none;
+}
+
+.banner .content a:hover {
+    background-color: rgb(232, 232, 232);
+    color: rgb(0, 0, 0);
+    transition: all .6s ease;
+}
+
+.py__home-large {
+    padding: 70px 0px;
+}

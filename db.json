@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "nom": "COLTON",
+      "description": "Une table au look unique et singulier qui vous permettra de réunir vos amis ou votre famille autour d'un bon repas.",
+      "prix": "1229.00 $",
+      "categorie": "Meubles"
+    },
+    {
+      "id": 3,
+      "nom": "CALABRIA",
+      "description": "Cette magnifique lampe illuminera votre intérieur avec charme. Sa base en céramique apporte une touche authentique, raffinée et naturelle à votre décoration.",
+      "prix": "540.00 $",
+      "categorie": "Lampes"
+    },
+    {
+      "id": 4,
+      "nom": "DUPRE",
+      "description": "À l'horizontal ou à la verticale, ce miroir déco habille avec caractère un pan de mur.",
+      "prix": "236.00 $",
+      "categorie": "Décorations"
+    },
+    {
+      "id": 5,
+      "nom": "LINA",
+      "description": "Coussin de couleur olive et fait de lin avec 95% de plume",
+      "prix": "98.00 $",
+      "categorie": "Décorations"
+    },
+    {
+      "id": 6,
+      "nom": "FLORINE",
+      "description": "Vase en céramique avec oiseaux, multicolore",
+      "prix": "84.00 $",
+      "categorie": "Décorations"
+    },
+    {
+      "id": 7,
+      "nom": "SABLE",
+      "description": "Ustensiles à Salade de fabrication artisanale",
+      "prix": "46.00 $",
+      "categorie": "Cuisine"
+    },
+    {
+      "id": 8,
+      "nom": "HARSTAD",
+      "description": "Gobelet en ciment de fabrication aritisanale",
+      "prix": "18.50 $",
+      "categorie": "Salle de bain"
+    },
+    {
+      "id": 9,
+      "nom": "CANE",
+      "description": "Chaise en bois de manguier avec assise confortable, recouverte en lin.",
+      "prix": "388.00 $",
+      "categorie": "Meubles"
+    },
+    {
+      "nom": "COTELI",
+      "description": "Assiete ronde de fabrication artisanale",
+      "prix": "46.00 $",
+      "categorie": "Cuisine",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.ajouter_wrapper {
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-bottom: 150px;
+    width: 65%;
+}
+
+.title__space {
+    color: #000000;
+    margin-bottom: 55px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.input__spacing {
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
+
+.ajout__bouton-space{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 42px;
+    margin-bottom: 25px;
+}

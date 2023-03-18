@@ -1,0 +1,62 @@
+.py-large {
+    padding: 150px 0px;
+}
+
+.wrapper {
+    padding: 0 6vw;
+}
+
+.hero__photo__text__content {
+    display: flex;
+}
+
+.hero__photo__text__text-wrapper {
+    align-items: center;
+    display: flex;
+    width: 66%;
+}
+
+.hero__photo__text__text-wrapper h2 {
+    font-size: 45px;
+}
+.hero__photo__text__text-wrapper p {
+    font-size: 6px;
+}
+
+@media only screen and (min-width: 550px) {
+    .hero__photo__text__text-wrapper p {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .hero__photo__text__text-wrapper p {
+        font-size: 18px;
+    }
+}
+
+.title--secondary {
+    font-size: max(20px, 3.5vw);
+    margin-bottom: 15px;
+}
+
+.comment__img-wrapper {
+    width: 40%;
+}
+
+.tile_img-wrapper-comment-ca-marche {
+    background-color: var(--light-gray);
+    border-radius: 35px;
+    padding-bottom: 100%;
+    width: 100%;
+}
+
+.photo-lord {
+    background-image: url(../img/about2.jpg);
+    background-position: 25% 85%;
+    background-size: cover;
+}
+
+.wrapper p {
+    font-size: 14px;
+}
